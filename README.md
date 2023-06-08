@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rutwiksenta90@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/15sIF6IEbz5hlIY28XJ2sZFfqAJ8P9OnP/view?usp=sharing](https://drive.google.com/file/d/15sIF6IEbz5hlIY28XJ2sZFfqAJ8P9OnP/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/15sIF6IEbz5hlIY28XJ2sZFfqAJ8P9OnP/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
