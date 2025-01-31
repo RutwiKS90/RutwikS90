@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rutwik Senta</h1>
 <h3 align="center">Traveller of 2D world of bits and resident of 3D world</h3>
 
-- 🔭 I’m currently working on **Trasecverse**
+- 🔭 I’m a **Software Developer** worked at **Avaya**
 
 - 🌱 I’m currently learning **Django, ReactJS and NodeJS**
 
